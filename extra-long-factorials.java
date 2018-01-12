@@ -1,3 +1,11 @@
+/*
+Problem:
+https://www.hackerrank.com/challenges/extra-long-factorials/problem
+*/
+
+/*
+My solution:
+*/
 public class Solution {
 
     static void extraLongFactorials(int n) {
